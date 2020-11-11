@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 026D-FE6B
+
+ Directory of c:\Latihan\Project03
+
+11/11/2020  19:34    <DIR>          .
+11/11/2020  19:34    <DIR>          ..
+11/11/2020  19:32                20 ausmick.txt
+11/11/2020  19:34                 0 dir.txt
+               2 File(s)             20 bytes
+               2 Dir(s)  97.446.178.816 bytes free
